@@ -1,0 +1,10 @@
+*
+!/.config
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/dotfiles-mr.vcsh
+!/.config/mr/config.d
+!/.config/mr/config.d/dotfiles-mr.vcsh
+!/.gitignore.d
+!/.gitignore.d/dotfiles-mr
+!/.mrconfig
