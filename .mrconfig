@@ -1,5 +1,6 @@
 [DEFAULT]
 git_gc = git gc "$@"
+update = git pull --rebase
 jobs = 5
 
 include = cat ~/.config/mr/config.d/*
