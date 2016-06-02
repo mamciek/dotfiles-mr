@@ -4,13 +4,15 @@
 !/.config/mr/available.d
 !/.config/mr/available.d/dotfiles-emacs.git
 !/.config/mr/available.d/dotfiles-mr.vcsh
-!/.config/mr/available.d/dotfiles-vim.git
 !/.config/mr/available.d/dotfiles.vcsh
+!/.config/mr/available.d/dotfiles-vim.git
+!/.config/mr/available.d/tmux-plugin-manager.git
 !/.config/mr/config.d
 !/.config/mr/config.d/dotfiles-emacs.git
 !/.config/mr/config.d/dotfiles-mr.vcsh
-!/.config/mr/config.d/dotfiles-vim.git
 !/.config/mr/config.d/dotfiles.vcsh
+!/.config/mr/config.d/dotfiles-vim.git
+!/.config/mr/config.d/tmux-plugin-manager.git
 !/.gitignore.d
 !/.gitignore.d/dotfiles-mr
 !/.mrconfig
